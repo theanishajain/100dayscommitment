@@ -1,0 +1,16 @@
+.box{
+    width:100px;
+    height:100px;
+    display: flex;
+}
+.box1{
+    background: #414141;
+}
+.box2{
+    background: #000;
+    /* position:absolute;
+    margin:50px; */
+}
+.box3{
+    background: #345554;
+}
